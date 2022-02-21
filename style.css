@@ -56,6 +56,10 @@ img.birthday {
     padding: 1em;
     color: #35858B;
 }
+.text h1 {
+    padding-top: 1px;
+    /* color: #35858B; */
+}
 
 .muted {
     opacity: 0.8;
